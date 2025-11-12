@@ -35,7 +35,7 @@ Perfect beginner-friendly project for learning **APIs, environment variables, an
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<yourusername>/weather-notify.git
+git clone https://github.com/CARLOSFUN/weather-notify.git
 cd weather-notify
 ```
 
@@ -76,7 +76,6 @@ Paste your real API keys and IDs like this:
 WEATHERAPI_KEY=your_real_weatherapi_key
 TELEGRAM_BOT_TOKEN=your_real_telegram_bot_token
 TELEGRAM_CHAT_ID=your_telegram_chat_id
-DEFAULT_CITY=Misawa
 ```
 
 * 🔑 Get your WeatherAPI key here: [WeatherAPI.com → My Account → API Keys](https://www.weatherapi.com/my/)
@@ -246,12 +245,11 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 👤 **Carlos Funezsanchez**
 📍 Misawa, Japan
 💼 Aspiring Linux & Cloud Engineer
-📫 [LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-🌐 Portfolio: *coming soon*
+📫 [LinkedIn Profile](https://www.linkedin.com/in/carlosfunezsanchez/)
+
 
 ---
 
-Would you like me to add a **polished “Project Overview” image banner** (like a screenshot preview of the Telegram message with weather icons) to make your GitHub page look even more professional? I can help you design and add that next.
 
 
 
