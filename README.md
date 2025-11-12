@@ -1,9 +1,3 @@
-Perfect, Carlos — here’s a **fully rewritten, professional, and recruiter-friendly** `README.md` that turns your *weather notification project* into a polished portfolio piece ready for GitHub and LinkedIn.
-
-You can copy this entire file into your repo’s `README.md` to replace the old version.
-
----
-
 # 🌦️ Weather Notify — Daily Weather Alerts via Telegram
 
 A simple Python app that fetches live weather data from [WeatherAPI.com](https://www.weatherapi.com) and sends personalized outfit or activity advice directly to your Telegram every morning.
@@ -258,5 +252,6 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 ---
 
 Would you like me to add a **polished “Project Overview” image banner** (like a screenshot preview of the Telegram message with weather icons) to make your GitHub page look even more professional? I can help you design and add that next.
+
 
 
