@@ -1,4 +1,4 @@
-# 🌦️ Weather Notify — Daily Weather Alerts via Telegram
+# 🌦️ Weather Notify: Daily Weather Alerts via Telegram
 
 A simple Python app that fetches live weather data from [WeatherAPI.com](https://www.weatherapi.com) and sends personalized outfit or activity advice directly to your Telegram every morning.
 
@@ -249,6 +249,7 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 
 
 ---
+
 
 
 
