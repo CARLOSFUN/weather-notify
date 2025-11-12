@@ -1,1 +1,11 @@
+# =========================================
+# Weather Notify Project - Dependencies
+# =========================================
+# This file lists all Python packages needed to run weather_live.py
+# To install everything, run:
+#   pip install -r requirements.txt
+# -----------------------------------------
+
+# Used to make HTTP calls to WeatherAPI and Telegram Bot API
 requests>=2.31.0
+
